@@ -1,0 +1,7 @@
+[(u'n02105412', u'kelpie', 0.24543902), (u'n02113186', u'Cardigan', 0.11096954), (u'n02106166', u'Border_collie', 0.09240454)]
+[(u'n02093256', u'Staffordshire_bullterrier', 0.6596775), (u'n02093428', u'American_Staffordshire_terrier', 0.33407182), (u'n02087394', u'Rhodesian_ridgeback', 0.004149205)]
+[(u'n02099601', u'golden_retriever', 0.5788112), (u'n02099712', u'Labrador_retriever', 0.23024046), (u'n02101388', u'Brittany_spaniel', 0.024157463)]
+[(u'n02112137', u'chow', 0.58323187), (u'n02099601', u'golden_retriever', 0.10590915), (u'n02113023', u'Pembroke', 0.08675245)]
+[(u'n02124075', u'Egyptian_cat', 0.38205206), (u'n02123045', u'tabby', 0.14916696), (u'n02123159', u'tiger_cat', 0.0675536)]
+[(u'n02123045', u'tabby', 0.6940093), (u'n02123159', u'tiger_cat', 0.111979865), (u'n02124075', u'Egyptian_cat', 0.11188817)]
+[(u'n02123045', u'tabby', 0.6171559), (u'n02123159', u'tiger_cat', 0.070307374), (u'n02124075', u'Egyptian_cat', 0.038288265)]
